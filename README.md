@@ -1,7 +1,7 @@
 # InstaReelsAnalysis
 Instagram sample data analysis
 
-What’s inside:
+✅ What’s inside:
 --> 100 records simulating Instagram Reels performance
 
 Metrics: Views, Likes, Comments, Saves, Shares
