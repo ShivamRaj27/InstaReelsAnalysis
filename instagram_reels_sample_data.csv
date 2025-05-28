@@ -1,0 +1,101 @@
+Reel_ID,Date_Posted,Country,Views,Likes,Comments,Saves,Shares,Caption,Hashtags,Topic,Post_Time,Duration_sec,Engagement_Rate
+R001,09-02-2024,USA,58447,3045,284,292,170,This is a reel about education.,#knowledge #learn #school,Education,Afternoon,15,0.065
+R002,27-02-2024,India,85097,5559,754,330,391,This is a reel about food.,#foodporn #delicious #homemade,Food,Afternoon,60,0.083
+R003,18-05-2024,China,81530,12092,1135,720,1016,This is a reel about comedy.,#comedy #joke #meme,Comedy,Evening,15,0.184
+R004,09-02-2024,China,4530,329,20,23,22,This is a reel about travel.,#nature #explore #travel,Travel,Morning,30,0.087
+R005,07-05-2024,USA,10718,1584,173,135,150,This is a reel about sports.,#win #team #game,Sports,Night,30,0.191
+R006,04-01-2024,India,19532,2161,155,209,147,This is a reel about relationships.,#together #couple #relationshipgoals,Relationships,Afternoon,90,0.137
+R007,16-01-2024,Kenya,83265,13894,1752,1229,897,This is a reel about sports.,#game #win #sports,Sports,Morning,30,0.213
+R008,01-01-2024,Thailand,96327,8211,1015,652,744,This is a reel about technology.,#gadgets #tech #innovation,Technology,Evening,15,0.11
+R009,21-01-2024,Malaysia,31946,5920,532,546,305,This is a reel about relationships.,#couple #love #romance,Relationships,Morning,15,0.229
+R010,04-01-2024,Japan,70896,8728,1041,764,533,This is a reel about fitness.,#health #gym #fitlife,Fitness,Night,15,0.156
+R011,10-04-2024,U.S. Virgin Islands,32942,3471,235,283,312,This is a reel about fashion.,#fashion #trend #ootd,Fashion,Afternoon,15,0.131
+R012,04-01-2024,Colombia,61447,8702,846,611,840,This is a reel about motivation.,#goals #motivation #grind,Motivation,Night,15,0.179
+R013,18-04-2024,USA,90711,5170,515,293,374,This is a reel about food.,#delicious #homemade #yum,Food,Afternoon,15,0.07
+R014,08-04-2024,India,75534,13576,714,915,1325,This is a reel about food.,#homemade #foodie #foodporn,Food,Morning,30,0.219
+R015,20-02-2024,China,70223,6923,650,418,587,This is a reel about sports.,#team #sports #win,Sports,Morning,90,0.122
+R016,23-01-2024,China,93934,4745,649,446,474,This is a reel about travel.,#explore #travel #wanderlust,Travel,Evening,15,0.067
+R017,24-05-2024,USA,25687,1934,111,192,101,This is a reel about fashion.,#lookbook #fashion #ootd,Fashion,Night,30,0.091
+R018,01-01-2024,India,78061,14442,1944,1254,748,This is a reel about technology.,#tech #future #gadgets,Technology,Evening,60,0.236
+R019,13-04-2024,Kenya,74830,5789,667,461,378,This is a reel about technology.,#future #tech #coding,Technology,Night,60,0.097
+R020,10-05-2024,Thailand,92552,5763,568,415,517,This is a reel about technology.,#innovation #coding #tech,Technology,Evening,15,0.078
+R021,07-05-2024,Malaysia,66395,11219,794,1120,803,This is a reel about technology.,#gadgets #innovation #coding,Technology,Evening,90,0.21
+R022,09-03-2024,Japan,68719,7285,938,494,675,This is a reel about motivation.,#motivation #inspiration #grind,Motivation,Morning,60,0.137
+R023,14-05-2024,U.S. Virgin Islands,58311,2986,439,236,203,This is a reel about technology.,#coding #future #gadgets,Technology,Evening,60,0.066
+R024,23-04-2024,Colombia,33180,3806,486,191,251,This is a reel about education.,#student #study #knowledge,Education,Morning,15,0.143
+R025,27-05-2024,USA,16504,903,99,81,55,This is a reel about relationships.,#together #love #couple,Relationships,Afternoon,30,0.069
+R026,02-03-2024,India,42831,5723,513,470,390,This is a reel about motivation.,#motivation #goals #grind,Motivation,Morning,30,0.166
+R027,08-01-2024,China,46059,7834,696,581,432,This is a reel about comedy.,#laugh #joke #meme,Comedy,Morning,15,0.207
+R028,04-05-2024,China,20725,1668,111,136,138,This is a reel about education.,#learn #study #student,Education,Morning,30,0.099
+R029,26-01-2024,USA,26321,5187,345,486,380,This is a reel about education.,#study #knowledge #learn,Education,Afternoon,60,0.243
+R030,11-01-2024,India,69494,9331,865,530,467,This is a reel about education.,#learn #knowledge #student,Education,Evening,15,0.161
+R031,01-02-2024,Kenya,83128,6948,529,641,637,This is a reel about fitness.,#health #workout #gym,Fitness,Night,60,0.105
+R032,06-02-2024,Thailand,2595,143,12,9,13,This is a reel about sports.,#win #sports #goal,Sports,Evening,60,0.068
+R033,09-02-2024,Malaysia,93173,8209,976,656,668,This is a reel about motivation.,#inspiration #goals #success,Motivation,Morning,30,0.113
+R034,29-04-2024,Japan,42550,6150,772,381,311,This is a reel about education.,#student #knowledge #study,Education,Morning,60,0.179
+R035,06-04-2024,U.S. Virgin Islands,7241,631,44,48,37,This is a reel about food.,#homemade #foodporn #delicious,Food,Night,90,0.105
+R036,06-03-2024,Colombia,91533,12283,1567,637,665,This is a reel about fitness.,#gym #health #fitlife,Fitness,Evening,30,0.166
+R037,22-05-2024,USA,95491,5107,601,298,424,This is a reel about technology.,#future #coding #tech,Technology,Night,90,0.067
+R038,31-03-2024,India,61737,6670,852,544,369,This is a reel about travel.,#wanderlust #explore #travel,Travel,Morning,15,0.137
+R039,18-04-2024,China,52115,5876,380,577,436,This is a reel about technology.,#gadgets #coding #tech,Technology,Night,90,0.139
+R040,24-01-2024,China,35287,1841,166,126,156,This is a reel about comedy.,#funny #comedy #joke,Comedy,Afternoon,60,0.065
+R041,18-04-2024,USA,37792,5399,763,449,403,This is a reel about relationships.,#love #romance #relationshipgoals,Relationships,Evening,60,0.186
+R042,29-02-2024,India,84971,9516,686,726,902,This is a reel about education.,#learn #school #study,Education,Night,30,0.139
+R043,06-01-2024,Kenya,9084,1112,134,106,67,This is a reel about food.,#yum #foodporn #foodie,Food,Night,15,0.156
+R044,03-04-2024,Thailand,18295,1357,135,70,131,This is a reel about education.,#student #learn #study,Education,Morning,30,0.093
+R045,09-02-2024,Malaysia,28877,5598,626,429,404,This is a reel about fitness.,#fitlife #health #gym,Fitness,Night,15,0.244
+R046,14-04-2024,Japan,81548,6856,609,546,411,This is a reel about education.,#knowledge #school #student,Education,Morning,30,0.103
+R047,02-02-2024,U.S. Virgin Islands,41999,2605,258,181,243,This is a reel about technology.,#gadgets #future #innovation,Technology,Night,30,0.078
+R048,11-03-2024,Colombia,34416,5015,455,485,366,This is a reel about fitness.,#gym #fitlife #fitness,Fitness,Afternoon,15,0.184
+R049,05-01-2024,USA,43912,4931,537,418,490,This is a reel about education.,#student #knowledge #learn,Education,Afternoon,60,0.145
+R050,17-01-2024,India,4996,705,44,55,67,This is a reel about education.,#student #study #knowledge,Education,Afternoon,60,0.174
+R051,05-02-2024,China,33779,2977,344,265,206,This is a reel about food.,#delicious #foodie #yum,Food,Morning,30,0.112
+R052,31-03-2024,China,80951,11910,964,658,977,This is a reel about fashion.,#ootd #trend #style,Fashion,Night,30,0.179
+R053,25-04-2024,USA,29726,1967,186,192,124,This is a reel about fitness.,#fitlife #fitness #workout,Fitness,Night,15,0.083
+R054,21-04-2024,India,92497,14691,741,1405,1010,This is a reel about relationships.,#love #relationshipgoals #couple,Relationships,Afternoon,30,0.193
+R055,29-05-2024,Kenya,66812,5521,328,523,435,This is a reel about fitness.,#workout #gym #fitlife,Fitness,Night,30,0.102
+R056,30-04-2024,Thailand,81973,15559,1170,1187,1473,This is a reel about sports.,#sports #team #goal,Sports,Morning,60,0.237
+R057,31-01-2024,Malaysia,32716,1963,101,153,172,This is a reel about fitness.,#fitlife #fitness #gym,Fitness,Afternoon,60,0.073
+R058,23-05-2024,Japan,95663,17329,1404,1023,1151,This is a reel about sports.,#sports #game #win,Sports,Evening,60,0.219
+R059,08-03-2024,U.S. Virgin Islands,91438,8273,694,556,653,This is a reel about sports.,#team #game #win,Sports,Evening,15,0.111
+R060,12-03-2024,Colombia,42188,8222,1070,794,604,This is a reel about technology.,#gadgets #coding #future,Technology,Evening,90,0.253
+R061,21-05-2024,USA,19680,1533,227,106,121,This is a reel about fashion.,#fashion #lookbook #trend,Fashion,Morning,15,0.101
+R062,13-02-2024,India,67312,6874,948,390,611,This is a reel about fashion.,#trend #ootd #fashion,Fashion,Night,15,0.131
+R063,26-02-2024,China,94353,15937,1303,1444,1321,This is a reel about sports.,#goal #sports #win,Sports,Afternoon,30,0.212
+R064,09-04-2024,China,25620,1896,182,143,174,This is a reel about motivation.,#motivation #success #goals,Motivation,Afternoon,90,0.093
+R065,29-05-2024,USA,91025,6735,534,435,467,This is a reel about comedy.,#joke #funny #laugh,Comedy,Evening,30,0.09
+R066,16-01-2024,India,35489,3667,265,244,297,This is a reel about relationships.,#together #romance #couple,Relationships,Morning,60,0.126
+R067,06-02-2024,Kenya,13230,2048,235,165,142,This is a reel about relationships.,#love #romance #couple,Relationships,Night,60,0.196
+R068,29-04-2024,Thailand,8061,1132,134,64,82,This is a reel about relationships.,#together #relationshipgoals #romance,Relationships,Morning,60,0.175
+R069,17-05-2024,Malaysia,95894,9926,1240,769,627,This is a reel about relationships.,#couple #relationshipgoals #together,Relationships,Afternoon,30,0.131
+R070,01-02-2024,Japan,99963,10668,838,919,1008,This is a reel about comedy.,#comedy #meme #funny,Comedy,Night,60,0.134
+R071,12-04-2024,U.S. Virgin Islands,4464,488,60,24,32,This is a reel about technology.,#innovation #gadgets #coding,Technology,Night,30,0.135
+R072,23-03-2024,Colombia,1359,138,7,8,7,This is a reel about food.,#delicious #homemade #yum,Food,Evening,90,0.118
+R073,13-01-2024,USA,56051,7190,728,681,539,This is a reel about food.,#delicious #foodporn #homemade,Food,Afternoon,15,0.163
+R074,21-04-2024,India,22176,3005,195,188,285,This is a reel about fashion.,#fashion #lookbook #ootd,Fashion,Afternoon,60,0.166
+R075,21-01-2024,China,57636,7473,890,698,550,This is a reel about food.,#homemade #foodporn #delicious,Food,Evening,90,0.167
+R076,28-04-2024,China,22235,1925,187,120,164,This is a reel about sports.,#sports #win #game,Sports,Night,15,0.108
+R077,06-01-2024,USA,47976,8558,1171,757,467,This is a reel about comedy.,#laugh #meme #funny,Comedy,Afternoon,60,0.228
+R078,08-03-2024,India,90476,11706,1251,1141,881,This is a reel about fitness.,#gym #workout #fitness,Fitness,Evening,90,0.166
+R079,29-05-2024,Kenya,24928,2899,215,170,205,This is a reel about comedy.,#comedy #funny #meme,Comedy,Morning,15,0.14
+R080,03-05-2024,Thailand,6230,966,62,69,62,This is a reel about relationships.,#couple #romance #love,Relationships,Morning,15,0.186
+R081,31-01-2024,Malaysia,79616,5177,581,363,436,This is a reel about travel.,#travel #wanderlust #nature,Travel,Morning,60,0.082
+R082,29-04-2024,Japan,28056,2431,276,195,220,This is a reel about sports.,#goal #sports #win,Sports,Morning,90,0.111
+R083,05-05-2024,U.S. Virgin Islands,59649,5373,327,322,335,This is a reel about comedy.,#laugh #comedy #funny,Comedy,Afternoon,30,0.107
+R084,28-04-2024,Colombia,6401,802,66,41,45,This is a reel about travel.,#wanderlust #travel #explore,Travel,Morning,60,0.149
+R085,13-03-2024,USA,84289,12708,920,839,1029,This is a reel about education.,#school #knowledge #learn,Education,Morning,30,0.184
+R086,16-03-2024,India,34350,5107,591,274,290,This is a reel about motivation.,#motivation #goals #inspiration,Motivation,Night,30,0.182
+R087,14-05-2024,China,44771,6810,420,398,366,This is a reel about food.,#foodie #yum #homemade,Food,Evening,90,0.179
+R088,02-03-2024,China,94402,14687,1215,1299,1236,This is a reel about motivation.,#inspiration #grind #success,Motivation,Evening,60,0.195
+R089,09-05-2024,USA,16272,2436,155,236,140,This is a reel about education.,#study #school #student,Education,Afternoon,30,0.182
+R090,16-04-2024,India,2454,360,20,31,19,This is a reel about technology.,#gadgets #tech #future,Technology,Evening,90,0.175
+R091,11-02-2024,Kenya,12346,755,74,51,50,This is a reel about technology.,#innovation #coding #tech,Technology,Morning,90,0.075
+R092,07-04-2024,Thailand,99720,12895,897,929,791,This is a reel about fitness.,#gym #health #workout,Fitness,Evening,15,0.156
+R093,04-04-2024,Malaysia,40261,7437,933,739,500,This is a reel about comedy.,#funny #laugh #comedy,Comedy,Night,60,0.239
+R094,16-01-2024,Japan,44149,4637,377,331,278,This is a reel about education.,#knowledge #learn #student,Education,Night,60,0.127
+R095,05-01-2024,U.S. Virgin Islands,84148,8788,1108,633,592,This is a reel about motivation.,#motivation #inspiration #goals,Motivation,Afternoon,15,0.132
+R096,15-01-2024,Colombia,67181,10608,1402,1030,556,This is a reel about food.,#delicious #homemade #foodporn,Food,Morning,60,0.202
+R097,01-01-2024,USA,17078,991,126,93,67,This is a reel about education.,#student #study #knowledge,Education,Night,15,0.075
+R098,10-02-2024,India,73470,5926,401,576,360,This is a reel about education.,#school #knowledge #study,Education,Evening,30,0.099
+R099,28-01-2024,China,70137,9629,562,850,481,This is a reel about motivation.,#success #goals #motivation,Motivation,Morning,90,0.164
+R100,16-05-2024,China,71908,4758,618,312,278,This is a reel about motivation.,#success #motivation #grind,Motivation,Afternoon,60,0.083
